@@ -1,5 +1,5 @@
 # Howdy
-This is Matt. I'm currently working in IT support and studying software engineering. I'll be primarily storing school projects and coursework here.
+Welcome to my GitHub profile. I'm currently working in IT support and studying software engineering. I'll be primarily storing school projects and coursework here.
 
 ## Why the weird username?
 I guess it's supposed to be a funny combination of 'Chekhov' and 'checksum'. I was reading about the use of checksums in verifying data integrity when I created this account, and I'm also a big fan of Anton Chekhov's short stories.
